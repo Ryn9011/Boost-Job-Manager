@@ -16,8 +16,9 @@ password: password
 
 Current Functionality:
 
-• The boost account can create and edit jobs whilst the lion account only has limited editing.
-• Changes can be made to jobs by Boost by clicking the job#. Any changes made are added to
+The boost account can create and edit jobs whilst the lion account only has limited editing.
+
+Changes can be made to jobs by Boost by clicking the job#. Any changes made are added to
 the job modification section. A summary of changes can then be sent via email to Lion
 (disabled). The details of the modifications are also sent to the lion account as notifications
 in the form of a mailbox.
