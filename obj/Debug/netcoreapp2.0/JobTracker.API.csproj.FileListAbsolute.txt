@@ -1,0 +1,10 @@
+F:\Boost\JobTracker\jobtracker.api\bin\Debug\netcoreapp2.0\JobTracker.API.deps.json
+F:\Boost\JobTracker\jobtracker.api\bin\Debug\netcoreapp2.0\JobTracker.API.runtimeconfig.json
+F:\Boost\JobTracker\jobtracker.api\bin\Debug\netcoreapp2.0\JobTracker.API.runtimeconfig.dev.json
+F:\Boost\JobTracker\jobtracker.api\bin\Debug\netcoreapp2.0\JobTracker.API.dll
+F:\Boost\JobTracker\jobtracker.api\bin\Debug\netcoreapp2.0\JobTracker.API.pdb
+F:\Boost\JobTracker\jobtracker.api\obj\Debug\netcoreapp2.0\JobTracker.API.csproj.CoreCompileInputs.cache
+F:\Boost\JobTracker\jobtracker.api\obj\Debug\netcoreapp2.0\JobTracker.API.AssemblyInfoInputs.cache
+F:\Boost\JobTracker\jobtracker.api\obj\Debug\netcoreapp2.0\JobTracker.API.AssemblyInfo.cs
+F:\Boost\JobTracker\jobtracker.api\obj\Debug\netcoreapp2.0\JobTracker.API.dll
+F:\Boost\JobTracker\jobtracker.api\obj\Debug\netcoreapp2.0\JobTracker.API.pdb

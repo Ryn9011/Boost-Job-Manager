@@ -1,0 +1,13 @@
+[
+    {
+	"Username": "boost",
+	"Password": "!boost#",
+	"Role": "admin"
+    },
+
+    {
+	"Username": "lion",
+	"Password": "lionlogin",
+	"Role": "customer"
+    }
+]
